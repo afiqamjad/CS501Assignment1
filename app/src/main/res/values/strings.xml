@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="og">&lt;Text goes here&gt;</string>
+    <string name="hello">Hello World.</string>
+    <string name="buttonText">SAY HELLO</string>
+</resources>
